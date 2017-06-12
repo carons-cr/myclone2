@@ -1,6 +1,4 @@
 // Write your cade below:
-  module.exports = function main() {
-           var x=9;
-           var y=2;
+  module.exports = function main(x,y) {
            var z=x%y;
 };
